@@ -1,3 +1,4 @@
 # g-libray
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/g-libray)
+This is a Library project  buit using Html,Bootstrap,Javascript.This project
+is built for learning Javascript
